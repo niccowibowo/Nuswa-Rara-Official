@@ -491,4 +491,17 @@ footer .socials img:hover {
       transform: translateY(0);
     }
   }
+
+}
+/* Animasi fade-up */
+.fade-up {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: all 0.8s ease-out;
+}      
+
+/* Saat elemen terlihat di viewport */
+.fade-up.show {
+  opacity: 1;
+  transform: translateY(0);
 }
