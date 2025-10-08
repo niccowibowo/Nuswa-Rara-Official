@@ -442,7 +442,7 @@ footer .socials img:hover {
   top: 0;
   left: 0;
   height: 0;
-  width: 100%;
+  width: 30%;
   background: white;
   display: flex;
   flex-direction: column;
@@ -505,4 +505,5 @@ footer .socials img:hover {
   opacity: 1;
   transform: translateY(0);
 }
+
 
