@@ -478,7 +478,7 @@ footer .socials img:hover {
   }
 
   .mobile-menu.active {
-    height: 100vh;
+    height: 45vh;
   }
 
   @keyframes dropdown {
@@ -505,5 +505,6 @@ footer .socials img:hover {
   opacity: 1;
   transform: translateY(0);
 }
+
 
 
